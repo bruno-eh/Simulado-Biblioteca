@@ -19,9 +19,9 @@
 ## Credenciais - Login
 
 ### Aluno
-Username: `joao.silva`.
-Password: `qwe123@`.
+- Username: `joao.silva`.
+- Password: `qwe123@`.
 
 ### Bibliotecária
-Username: `bruna.garcia`.
-Password: `asd123#`.
+- Username: `bruna.garcia`.
+- Password: `asd123#`.
